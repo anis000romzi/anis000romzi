@@ -1,6 +1,6 @@
 - 🔭 I’m currently developing a [Restaurant Catalogue Apps](https://github.com/anis000romzi/my-restaurant-list)  
  
-- 🌱 I’m currently learning Flutter  
+- 🌱 I’m currently backend technology (REST API) with laravel  
   
 - 📧 You can email me at: anis000romzi@gmail.com 
 
