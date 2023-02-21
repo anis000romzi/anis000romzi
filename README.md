@@ -2,7 +2,7 @@
  
 - 🌱 I’m currently learning back-end technology (REST API) with laravel  
   
-- 📧 You can email me at: anis000romzi@gmail.com 
+- 📧 Please email me at: anis000romzi@gmail.com 
 
 - ⚡ Fun fact: My favorite language is javascript  
   
