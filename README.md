@@ -5,5 +5,3 @@
 - 📧 Please email me at: anis000romzi@gmail.com 
 
 - ⚡ Fun fact: i love javascript!
-  
-<br/>  
