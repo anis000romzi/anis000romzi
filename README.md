@@ -1,6 +1,6 @@
 - 🔭 I’m not working on any project right now 
  
-- 🌱 I’m currently learning back-end technology with express.js
+- 🌱 I’m currently learning state management with redux
   
 - 📧 Please email me at: anis000romzi@gmail.com 
 
