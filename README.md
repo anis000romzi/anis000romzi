@@ -4,7 +4,7 @@
 <br />
 <samp>I use javascript as my main language.</samp>
 <br />
-<samp>Always looking the opportunity to learn new stuffs!</samp>
+<samp>Always looking for the opportunity to learn new stuffs!</samp>
 <br />
 <samp>Please email me at: <a href="mailto:anis000romzi@gmail.com">anis000romzi@gmail.com</a>.</samp>
 <br><br>
