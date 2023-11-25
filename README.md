@@ -1,4 +1,4 @@
-<img alt="GIF" src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" />
+<img alt="GIF" src="https://media.giphy.com/media/l4KihuqeuJEi9qLSM/giphy.gif" style="height: 400px" />
 <br />
 <samp>Hellooo ~ I'm specializing in web development.</samp>
 <br />
